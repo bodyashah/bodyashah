@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @bodyashah. I'm Backend developer with almost three years of development experience
+- 👀 I’m interested in everything connected to Java and Backend part of development
+- 🌱 I’m currently learning AWS ecosystem and Frontend basics
+- 📫 My e-mail: bodyashah@gmail.com
